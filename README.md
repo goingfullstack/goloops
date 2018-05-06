@@ -3,7 +3,7 @@ goloops
 
 Here is some fun with loops in Go.
 
-This is support for [the article at the blog](http://localhost:1313/backend/funny-thing-in-go-loops/).
+This is support for [the article at the blog](https://goingfullstack.com/backend/funny-thing-in-go-loops/).
 
 Run the examples with:
 
